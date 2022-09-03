@@ -120,6 +120,3 @@
     <?php require_once('elements/footer.php'); ?>
 </body>
 </html>
-
-
-nnnnnn
