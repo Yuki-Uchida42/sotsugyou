@@ -16,4 +16,4 @@ jobs:
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
           LOCAL_DIR: ./
-          REMOTE_DIR: shimotmk.com/public_html/git-test/
+          REMOTE_DIR: http://xs014707.xsrv.jp//public_html/
