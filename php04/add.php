@@ -86,6 +86,7 @@
                             <option value="ぴちゃ">びちゃ</option>
                         </select>
                     </div>
+                    
     
                     <div class="mb-5">
                         <label for="selectColor" class="form-label">色</label>
@@ -119,3 +120,6 @@
     <?php require_once('elements/footer.php'); ?>
 </body>
 </html>
+
+
+nnnnnn
